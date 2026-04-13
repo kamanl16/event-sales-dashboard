@@ -1,0 +1,14 @@
+# ---- Frontend (React/Vite) ----
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# ---- Backend (Rails) ----
+backend/tmp/
+backend/log/
+backend/.env
+backend/storage/
+
+# ---- OS Generated Files ----
+.DS_Store
+Thumbs.db
